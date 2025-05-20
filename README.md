@@ -72,8 +72,9 @@ Feel free to fork this repo, enhance the UI/UX, or even connect this panel to a 
 
 ---
 
-## 📄 License
+## 🙏 Special Thanks
 
-This project is licensed under the MIT License.
+> **Huge thanks to Colt Steele** for the amazing web development tutorials and guidance.  
+> This project wouldn't have been possible without his clear, practical, and in-depth teaching style. 🎓💙
 
 ---
